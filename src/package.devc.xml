@@ -4,6 +4,7 @@
   <asx:values>
    <DEVC>
     <CTEXT>A local package for learning</CTEXT>
+    <PACKTYPE>H</PACKTYPE>
     <SRV_CHECK>X</SRV_CHECK>
    </DEVC>
   </asx:values>
